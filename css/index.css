@@ -1,0 +1,125 @@
+/*
+* @Author: xiangge
+* @Date:   2018-01-24 11:28:08
+* @Last Modified by:   xiangge
+* @Last Modified time: 2018-01-24 13:31:07
+*/
+.box{
+	width: 600px;
+	height: 600px;
+	background: #ffffff;
+
+}
+.sjwk{
+	width: 232px;
+	height: 478px;
+	background: #f9f9f9;
+	border: 2px solid #9da6ab;
+	border-radius: 30px;
+	float: left;
+	margin-right: 50px;
+}
+.sjshang{
+	width: 232px;
+	height: 47px;
+	/* background: #f9f9f9; */
+}
+.tou{
+	width: 8px;
+	height: 8px;
+	background: #242424;
+	border-radius: 50%;
+	float: left;
+	margin-left: 70px;
+	margin-top: 20px;
+	margin-right: 33px;
+}
+.tou1{
+	width: 10px;
+	height: 10px;
+	background: #747474;
+	border-radius: 50%;
+	margin-left: 0px;
+	margin-top: 19px;
+	margin-right: 33px;
+}
+.tou2{
+	width: 8px;
+	height: 8px;
+	background: #242424;
+	border-radius: 50%;
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+.pingmu{
+	width: 224px;
+	height: 388px;
+	background: #020001;
+	margin-left: 4px;
+}
+.di{
+	width: 4px;
+	height: 4px;
+	background: #858585;
+	float: left;
+	border-radius: 50%;
+	margin-left: 46px;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+.di1{
+	width: 11px;
+	height: 11px;
+	background: #f7f7f7;
+	border-radius: 50%;
+	margin-left: 0px;
+	margin-top: 16px;
+	margin-right: 60px;
+	border: 1px solid #9da6ab
+}
+.di2{
+	width: 4px;
+	height: 4px;
+	background: #858585;
+	float: left;
+	border-radius: 50%;
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+.sjwk1{
+	background: #dddddd;
+	border: 2px solid #9195a0;
+}
+.shexiangtou{
+	width: 36px;
+	height: 36px;
+	background: #1e1d23;
+	margin-left: 96px;
+	border-radius:50%;
+	margin-top: 30px;
+	border: 2px solid #9195a0
+}
+.sanguangdeng{
+	width: 12px;
+	height: 12px;
+	background: #888c75;
+	margin-left: 109px;
+	border-radius:50%;
+	margin-top: 8px;
+	border: 1px solid #9195a0
+}
+.zhiwen{
+	width: 36px;
+	height: 36px;
+	background: #d7d7df;
+	margin-left: 96px;
+	border-radius:50%;
+	margin-top: 8px;
+	border: 2px solid #9195a0
+}
+.tupian{
+	margin-left: 77px;
+	margin-top: 232px;
+}
